@@ -1,3 +1,14 @@
+**Table of contents**
+General info
+Technologies
+Illustrations
+Setup
+Features
+Examples of use
+Project status
+Sources
+Contact
+
 **General info**
 Waves is a layered R&B/Soul track where every drum hit, bassline, chord and melody is written in Python instead of played in. The Australian music industry has plenty of indie, pop and rock, but far fewer spaces for R&B and Soul. As a singer-songwriter performing around Sydney, I wanted to make something that helps fill that gap.
 
@@ -37,3 +48,12 @@ Comments explaining what each number means musically
 
 **Project status**
 Project is: complete as a prototype for this subject.
+
+**Sources**
+References follow APA 7th edition (UTS Library APA Guide, Rule 7.17 Software, apps & code).
+Python Software Foundation. (n.d.). Python (Version 3) [Computer software]. https://www.python.org Used to learn loops, lists, functions and conditionals.
+TunePad. (n.d.). TunePad [Computer software]. https://tunepad.com The coding platform the project runs in. 
+YouTube tutorials: https://www.youtube.com/watch?v=IA61u8HFtvQ&t=42s
+Peer feedback from Ashmira Gupta led to more variation between repeated sections and the setup instructions in this README.
+
+
