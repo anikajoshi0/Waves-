@@ -1,18 +1,39 @@
-# Waves-
-Musical Project made with TunePad
-Hi and welcome to my musical project made with TunePad using Python Code!
+**General info**
+Waves is a layered R&B/Soul track where every drum hit, bassline, chord and melody is written in Python instead of played in. The Australian music industry has plenty of indie, pop and rock, but far fewer spaces for R&B and Soul. As a singer-songwriter performing around Sydney, I wanted to make something that helps fill that gap.
 
-**How to run it**
-TunePad runs in the browser, so you don't need to install anything.
+This project was created for Creative Coding at the University of Technology Sydney (2026). My aim was to learn the basics of Python and explore how code can be another creative tool for a musician.
 
-Option 1: Open the shared project 
-Open the Waves TunePad link.
-Press the Play button at the top of the project to hear the full track.
-Press Play on an individual cell to hear one instrument on its own.
+**Technologies**
+Project is created with:
 
-Option 2: Rebuild it from this repository
-Go to tunepad.com and sign in (a free account works).
+Python 3 (run in the browser through TunePad)
+TunePad, a web-based music coding platform: https://tunepad.com
+TunePad's built-in music commands: playNote() and rest()
+
+**Illustrations**
+The Waves project in TunePad
+! [Project Screenshot] (https://kommodo.ai/i/RqKZ4XIQqo5qujODUN6B)
+Setup
+
+**TunePad runs in the browser, so there is nothing to install. All you need is a web browser and a free TunePad account.**
+Option 1: Open the shared project (easiest)
+Open the Waves project on TunePad: https://tunepad.com/project/130253
+Press Play at the top of the project to hear the full track.
+Press Play on a single cell to hear one instrument on its own.
+
+**Option 2: Rebuild it from this repository**
+Go to https://tunepad.com and sign in.
 Create a New Project.
-For each file in the code/ folder, add a new cell with the matching instrument (see the table below).
+For each file in the code/ folder, add a new cell and choose the matching instrument (see the table below).
 Copy the code from the file and paste it into the cell.
 Press Play on the project.
+
+**Features**
+Four instrument layers: drums, bass, chords and melody
+Two song sections (A and B), so the track doesn't repeat one idea throughout
+Chords stored as list variables, so each chord only needs changing in one place
+Loops and functions that replace hand-copied bars
+Comments explaining what each number means musically
+
+**Project status**
+Project is: complete as a prototype for this subject.
